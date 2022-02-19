@@ -385,9 +385,6 @@ Apache-2.0
 @firebase/webchannel-wrapper
 Apache-2.0
 
-@ngrx/store
-MIT
-
 angularfire2/auth
 MIT
 
